@@ -1,0 +1,2 @@
+# Smart-Caf-for-Combating-Covid-19
+One of the main advantages for societies is the Internet of Things (IoT) and Mobile Applications. As a result, many different types of companies use IoT technology for a variety of goals, including business automation, business intelligence, and marketing. IoT and Mobile Applications have a lot of potential in the cafeterias industry. However, in the cafeterias industry, these technologies are not widely deployed. 
